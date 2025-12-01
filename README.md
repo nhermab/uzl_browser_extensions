@@ -1,2 +1,2 @@
 # uzl_browser_extensions
-fixes voor tools binnen UZL 
+F12 fixes voor tools binnen UZL 
