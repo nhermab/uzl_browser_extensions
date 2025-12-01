@@ -25,7 +25,7 @@
         "F!": "Feestdag vorig jaar",
         "V+": "Onbetaald verlof",
         "VR": "Vlaams opleidingsverlof",
-        "LV": "Vlaams opleidingsverlof initiatief WG",
+        "VL": "Vlaams opleidingsverlof initiatief WG",
         "S+*": "Onbekende teller S+*",
         "J+": "Jeugd- en seniorenvakantie",
         "V5": "Extra verlof pas afgestudeerde",
